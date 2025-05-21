@@ -685,3 +685,53 @@
 		description = "",
 		client = { image = "vozollikit.png" }
 	},
+	--sigaralar
+	["marlboroedge"] = {
+		label = "Marlboro Edge",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+	},
+	["marlborotouchblue"] = {
+		label = "Marlboro Touch Blue",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+	},
+	["parliamentnightblue"] = {
+		label = "Parliament Night Blue",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+	},
+	["parliamentnightbluepack"] = {
+		label = "Parliament Night Blue Pack",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+	},
+	["parliamentmidnightblue"] = {
+		label = "Parliament Midnight Blue",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+	},
+	["winstonslenderblue"] = {
+		label = "Winston Slender Blue",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+	},
+	["winstondarkblue"] = {
+		label = "Winston Dark Blue",
+		weight = 200,
+		stack = true,
+		close = true,
+		description = "",
+	},
